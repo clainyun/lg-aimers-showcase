@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/LG-AImers-team/LG-AImers">
+    <img src="https://img.shields.io/badge/🔗%20View-Original%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LightGBM-Modeling-9ACD32"/>
   <img src="https://img.shields.io/badge/XGBoost-Modeling-EC6B23"/>
